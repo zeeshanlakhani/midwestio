@@ -36,7 +36,7 @@
 
 ![img](images/hammock.jpg)
 
-<http://www.amazon.com/Clojure-Bookshelf/lm/R3LG3ZBZS4GCT>
+<http://www.amazon.com/Clojure-Bookshelf/lm/R3LG3ZBZS4GCTH>
 
 # ![img](images/mc.jpg)
 
